@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+data/
+invoices_inbox/
+sample_invoices/
+redteam_invoices/
+.venv/
+venv/
